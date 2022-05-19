@@ -1,0 +1,12 @@
+.prof {
+    background-color: #0F293C;
+    color: white;
+    min-height: 200px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.content {
+    width: 1120px;
+    margin: 0 auto;
+}
